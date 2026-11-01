@@ -2,12 +2,7 @@
 
 BuildShortcut
 Adalah alat skrip kecil yang saya buat menggunakan bahasa pemograman BATCH & PS1 dan ini saya idekan untuk mempercepat
-automation, saat dimana user membuat shortcut dengan kelik kanan pada file (Create a Shortcut) dan memindahkan-nya secara manual.
-
-Tetapi.. 
-
-Saya berfikir bagaimana cara membuat shorcut dengan cepat tanpa harus memakan waktu yang lama?
-dan saya buatlah skrip kecil ini dan ini masih tahap awal yang sebenar-nya belum ada hal yang signifikan sehingga saya perlu memperbaiki skrip ini dengan baik.
+automation, saat dimana user membuat shortcut dengan mengkelik kanan pada suatu file (Create a Shortcut) dan memindahkan-nya secara manual ke path destination.
 
 #Ringkasan Point-Point penggunaan
 
